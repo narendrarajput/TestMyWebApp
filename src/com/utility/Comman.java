@@ -1,5 +1,7 @@
 package com.utility;
 
-public class Comman {
-
+public class Comman 
+{
+	
+	
 }
